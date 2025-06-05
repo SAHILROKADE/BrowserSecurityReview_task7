@@ -1,6 +1,6 @@
 # 🛡️ Elevate Labs Task 7: Browser Extension Security Review
 
-This task is part of the **Elevate Labs Cybersecurity Internship**. It involved reviewing my browser extensions for privacy, security, and performance risks.
+This task is part of the **Elevate Labs Cybersecurity Internship**. It involved auditing my browser extensions to assess privacy, security, and performance risks.
 
 ---
 
@@ -8,34 +8,36 @@ This task is part of the **Elevate Labs Cybersecurity Internship**. It involved 
 
 - Opened Chrome extension manager (`chrome://extensions/`)
 - Reviewed all installed extensions
-- Checked permissions and reviews on the Chrome Web Store
-- Verified that all extensions were legitimate and in use
-- Researched how malicious extensions can harm user privacy
-- Documented everything and took screenshots
+- Checked permissions and developer credibility via the Chrome Web Store
+- Verified that all extensions were legitimate, safe, and actively used
+- Researched how malicious extensions impact users
+- Documented findings and captured relevant screenshots
 
 ---
 
 ## 🔍 Extensions Reviewed
 
-- **Ghostery Tracker & Ad Blocker** ✅  
-- **Google Docs Offline** ✅  
-- **Wappalyzer - Technology Profiler** ✅  
+| Extension Name                   | Purpose                                | Status |
+|----------------------------------|----------------------------------------|--------|
+| Ghostery Tracker & Ad Blocker   | Blocks ads and trackers                | ✅ Safe |
+| Google Docs Offline             | Offline editing for Google Docs/Sheets| ✅ Safe |
+| Wappalyzer - Technology Profiler| Identifies tech stacks on websites     | ✅ Safe |
 
-All extensions were safe and actively used. No suspicious or unused extensions found.
+No suspicious or unused extensions were found during the review.
 
 ---
 
-## 🧹 Action Taken
+## 🧹 Actions Taken
 
-- No removals necessary  
-- Browser performance stable  
-- Task completed successfully
+- No removals were necessary  
+- All extensions were verified as safe  
+- Browser performance remained stable
 
 ---
 
 ## 📸 Screenshot
 
-_A screenshot of the installed extensions has been included in the `/screenshots` folder._
+🖼️ A screenshot of the installed extensions is included in the `/screenshots` folder:
 
 ![Installed Extensions](screenshots/extensions_list.png)
 
@@ -43,11 +45,16 @@ _A screenshot of the installed extensions has been included in the `/screenshots
 
 ## 🧠 Learning Outcome
 
-- Learned how to evaluate browser extensions for privacy and security risks  
-- Understood how malicious extensions can:
-  - Leak personal data  
-  - Inject ads into websites  
-  - Track user activity and browsing behavior
+Through this task, I learned to:
+
+- Evaluate browser extensions critically for privacy and security concerns  
+- Understand risks posed by malicious extensions, such as:
+  - 📤 Leaking personal data
+  - 📈 Tracking browsing activity
+  - 🛑 Injecting unwanted ads or code into websites
 
 ---
+
+> ✅ This task strengthened my practical understanding of browser hygiene and real-world cybersecurity best practices.
+
 
